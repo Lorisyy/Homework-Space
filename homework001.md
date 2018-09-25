@@ -2,7 +2,7 @@
 ## 1.引言 & A brief Introduction
 ### 1.1 起源与发现过程
 在1202年的数学书籍上Liber Abaci，意大利数学家莱昂纳多·斐波那契（Leonardo Fibonacci）提出了基于“兔子繁殖”的数学问题:著名的斐波那契数。(Picture 1 )该繁殖问题的题目为：兔子在出生两个月后，就会有繁殖能力，一对具有繁殖能力的兔子在每一个月能生出一对小兔子（一雄一雌），这里假设兔子没有死亡。今有一对新生的小兔，在一片田地上，在第12个月或更多个月时候，共有几对兔子？
-![PIcture：A page of Fibonacci's Liber Abaci(wikipedia)](images/Liber_abbaci_magliab_f124r.jpg)
+![PIcture：A page of Fibonacci's Liber Abaci(wikipedia)](homework images/Liber_abbaci_magliab_f124r.jpg)
 ### 1.2 后人的补充证明与发现
 *通过对问题描述的分析，我们可以列出这样一个表格：*
 月份|1|2|3|4|5|···|11|12|
@@ -20,7 +20,7 @@ _问题介绍：写下任意两个1~9之间的数（未知），按照斐波那�
 分析，在类斐波那契数列（首两项不为1,1但满足其递推公式的数列），我们在写出这种数列的第10项后，发现随着项数增大，前一项/后一项的比值趋近0.618033···（黄金比例的值）。因此，只要项数足够大，我们就可以根据一个给定正整数来算出它的后一项（保留到整数），（事实上，项数大于15就完全可行，有些情况下甚至更小就可以。）
 ## 3.斐波那契数列的通项公式与常规方法推导
 ### 3.1 通项公式
-![斐波那契数列的通项公式](images/Fibonacci.png)
+![斐波那契数列的通项公式](homework images/Fibonacci.png)
 ### 3.2简易推导
 Fn+1 = Fn + Fn-1
 Fn+1 + k Fn= (1+k) Fn + Fn-1
