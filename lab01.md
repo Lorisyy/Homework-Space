@@ -6,7 +6,7 @@ title: 斐波那契数列及其简单应用
 ## 1.引言 & A brief Introduction
 ### 1.1 起源与发现过程
 在1202年的数学书籍上Liber Abaci，意大利数学家莱昂纳多·斐波那契（Leonardo Fibonacci）提出了基于“兔子繁殖”的数学问题:著名的斐波那契数。(Picture 1 )该繁殖问题的题目为：兔子在出生两个月后，就会有繁殖能力，一对具有繁殖能力的兔子在每一个月能生出一对小兔子（一雄一雌），这里假设兔子没有死亡。今有一对新生的小兔，在一片田地上，在第12个月或更多个月时候，共有几对兔子？
-![PIcture：A page of Fibonacci's Liber Abaci(wikipedia)](Liber_abbaci_magliab_f124r.jpg)
+![PIcture：A page of Fibonacci's Liber Abaci(wikipedia)](images/Liber_abbaci_magliab_f124r.jpg)
 ### 1.2 后人的补充证明与发现
 *通过对问题描述的分析，我们可以列出这样一个表格：*
 月份|1|2|3|4|5|···|11|12|
