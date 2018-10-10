@@ -41,7 +41,11 @@ Text 文本信息；
 首先需要说明的是，由于没有设置玩家血量（Health），该游戏可以认为是无敌版，但是会有击杀敌人的记分牌（之前的TEXT）。  
 sheet如下图：  
 ![GameSheet](images/Gamesheet.png)
-再点击左上角的Run Layout按钮（像播放键一样），即可在IE浏览器支持下开始这款游戏啦！
+再点击左上角的Run Layout按钮（像播放键一样），即可在IE浏览器支持下开始这款游戏啦！   
+怎么样？  
+是不是很简单直接粗暴？？？  
+![过程展示](images/yanshi.gif)
+
 
 
 
