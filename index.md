@@ -5,7 +5,11 @@
 1. [01-使用维基百科（Wikipedia）解释名词](hw01)
 2. [02-使用维基百科（Wikipedia）解释名词&进制转换](hw02)
 3. [03-使用维基百科（Wikipedia）解释名词&数学证明](hw03)
-4. ...
+4. [04-使用维基百科（Wikipedia）解释名词&代码转换&图像、文件相关问题](hw04)
+5. [05-使用维基百科（Wikipedia）解释名词&](hw05)
+6. [06-使用维基百科（Wikipedia）解释名词&](hw06)
+7. [07-使用维基百科（Wikipedia）解释名词&](hw07)
+
 
 
 ## 实验与实践
@@ -13,7 +17,7 @@
 1. [01-我的 Markdown 博客](lab01)
 2. [02-使用Construct2 制作我的第一款 HTML5 游戏](lab02)
 3. [03-A Brief Introduction of Elon Musk & His Goals](lab03)
-4. [04-我的科普博客](lab04)
+4. [04-What's Bubble Sort and how to code it?](lab04)
 5. [05-电路学习](lab05)
 6. [06-X现象背后的IT规律](lab06)
 7. [07-机器语言实验报告](lab07)
