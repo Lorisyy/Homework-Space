@@ -22,5 +22,9 @@ Here is a picture to show the scene of the game.![Game](images/Gameshow.png)
   -|-|-|-  
   Collaborator|Peppa Pig,Lightning|Signal of Boom,Lighting|Zues->Peppa Pig 
   Events & Actions|Controller:Mouse & Keyboard|reborn every two seconds|Unlimited
+  
+  Here is a gif to show the game.
+  ![过程展示](images/yanshi.gif)
+
 
  
