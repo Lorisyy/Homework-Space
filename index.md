@@ -11,7 +11,7 @@
 7. [07-使用维基百科（Wikipedia）解释名词&简答&汇编语言与机器语言](hw07)
 8. [08-使用维基百科（Wikipedia）解释名词&进制转换](hw08)
 9. [09-使用维基百科（Wikipedia）解释名词&牧师与恶魔过河(](hw09)
-10. [10-使用维基百科（Wikipedia）解释名词](hw10)
+10. [10-Bubble/Selection Sort&Stack](hw10)
 
 
 
