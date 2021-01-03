@@ -1,9 +1,17 @@
-# home work
+# Hand Written digits prediction
+5.2 CNN model fitted to MNIST data & GUI for predicting own hand written digits (0-9)
 
-这是课程作业的模板。 请 fork 它到你自己的 git 账号， 然后修改仓库的名字作为作业空间。 [模板效果](https://sysu-swi.github.io/homework/)
+## Requirements:
+Python 3.7.9 64-bit (conda)
 
-点击右上角 Fork， 开始你的课程作业旅程！
+## How to run:
+1) pip install -r requirements.txt
+2) Run command: python gui.py
 
-把你的作业空间的 git page 地址发给 TA 哦。 
+## How it works:
+1) MNIST data is downloaded via Keras and preprocessed
+2) CNN model is compiled and trained on MNIST data, see cnn.py for details
+3) Once the graphical user interface opens, draw a number between 0-9 using your mouse and click 'Go' and see if it predicts it right :)
 
-作业反馈在 Issues 内！
+
+
